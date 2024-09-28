@@ -100,7 +100,6 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 ![Screenshot 2024-09-28 101532](https://github.com/user-attachments/assets/058105ba-6f5e-43e6-9ee4-499265a7e7b7)
-
 ### ii) Display the video
 ![Screenshot 2024-09-28 101532](https://github.com/user-attachments/assets/8a0d9ed9-7eeb-4800-bcf7-d3e841ccd3e0)
 
